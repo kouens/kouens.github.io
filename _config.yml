@@ -20,8 +20,11 @@ exclude: ['CNAME', 'README.md', 'LICENSE', '_site', 'dist', 'Gemfile', 'Gemfile.
 domainUrl: 'https://game.kouen.live'
 baseurl: ''
 
-# sub
-subUrl: https://music.kouen.live
+# sub-music
+msubUrl: https://music.kouen.live
+
+# sub-book
+bsubUrl: https://book.kouen.live
 
 # 菜单
 menu:
