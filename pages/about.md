@@ -3,10 +3,12 @@ layout: mypost
 title: Infor
 ---
 
-> Hello, welcome to Visual Art CD Archive.
+# サブページ－ゲーム
 
-Release CD, the download urls are BaiduDisk and Telegram Channel
+> ダウンロードURL: BaiduNetDisk
+
+> 解凍パスワード：Ｋｏｕｅｎ（全角）
 
 ## Contact me
 
-- Email&nbsp;: [mashiro@kouen.live](mailto:mashiro@kouen.live)
+- Email&nbsp;：[mashiro@kouen.live](mailto:mashiro@kouen.live)

@@ -23,9 +23,6 @@ baseurl: ''
 # sub-music
 msubUrl: https://music.kouen.live
 
-# sub-book
-bsubUrl: https://book.kouen.live
-
 # 菜单
 menu:
   - title: トップ
