@@ -35,6 +35,8 @@ menu:
     url: /pages/links.html
   - title: Infor
     url: /pages/about.html
+  - title: 音楽
+    url: /pages/music.html
 
 # 点击页面文字冒出特效,不需要请设置为false
 extClickEffect: true
