@@ -22,8 +22,9 @@ categories: [SkyFish poco]
 
 ---
 ## ダウンロード
-> ファイル形式：[Rip] (Image)iso+mds+rr3
-> ファイル形式：[Rip] (Chinese)files+rr3
+> ファイル形式1：[Rip] (Image)iso+mds+rr3
+
+> ファイル形式2：[Rip] (Chinese)files+rr3
 
   - **BaiduDisk**
 
