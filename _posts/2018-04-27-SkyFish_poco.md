@@ -22,10 +22,16 @@ categories: [SkyFish poco]
 
 ---
 ## ダウンロード
-> ファイル形式：[Rip-O]&<u>[Rip-F]</u> files+rr3
+> ファイル形式：[Rip] (Image)iso+mds+rr3
+> ファイル形式：[Rip] (Chinese)files+rr3
 
   - **BaiduDisk**
 
-    - [リンク(CHS)](https://pan.baidu.com/s/1-RxGfn4xU0EYuQexYfMhsg)
+    - [リンク(Image)](https://pan.baidu.com/s/1gJAyicaBi5t5jTLtc2yAIA)
+    - パスワード：p30m
+    - [リンク(CHS-Files)](https://pan.baidu.com/s/1-RxGfn4xU0EYuQexYfMhsg)
     - パスワード：h56s
     - 解凍パスワード：Ｋｏｕｅｎ（全角）
+  - **セーブデータ**
+
+    - [180427_SkyFish_poco.zip](180427_SkyFish_poco.zip)
