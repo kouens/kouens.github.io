@@ -30,8 +30,8 @@ categories: [PICOPICOSOFT]
 
   - **BaiduDisk**
 
-    - [リンク(v1.11 AppendData)](--)
-    - パスワード：----
+    - [リンク(v1.11 AppendData)](https://pan.baidu.com/s/1-5kWHH1eXhX0sHWzdxc4Fg)
+    - パスワード：w5w5
     - 解凍パスワード：Ｋｏｕｅｎ（全角）
   - **セーブデータ**
 
